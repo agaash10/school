@@ -1,12 +1,12 @@
 .ice {
-    border: 200px solid rgb(255, 255, 255);
+    border: 200px solid rgb(248, 152, 152);
     position: relative;
     margin-top: 70px;
     max-width: 1450px;
 }
 
 .ice2 {
-    border: 20px solid rgb(255, 255, 255);
+    border: 20px solid rgb(250, 214, 214);
 
     max-width: 1450px;
     max height: 1000px; 
