@@ -1,0 +1,56 @@
+.ice {
+    border: 200px solid rgb(255, 255, 255);
+    position: relative;
+    margin-top: 70px;
+    max-width: 1450px;
+}
+
+.ice2 {
+    border: 20px solid rgb(255, 255, 255);
+
+    max-width: 1450px;
+    max height: 1000px; 
+}
+.ice3 {
+    border: 30px solid rgb(255, 255, 255);
+    max-width: 1450px;
+}
+
+
+
+
+
+.ice4 {
+    border: 20px solid rgb(255, 255, 255);
+    position: relative;
+    max-height: 300px;
+    max-width: 1450px;
+}
+.ice5 {
+    border: 20px solid rgb(255, 255, 255);
+    max-width: 1450px;
+    max-height: 700px;
+}
+.ice6 {
+      border: 20px solid rgb(255, 255, 255);
+      position: relative;
+      max-height: 300px;
+      max-width: 2000px;
+
+}
+body{
+background-color: rgb(255, 100, 100);
+}
+
+.content{
+    background-color: rgb(255, 4, 4);
+  width: 1300px;
+  border: 15px solid rgb(0, 0, 0);
+  padding: 50px;
+  margin: 20px;
+    text-align: center;
+}
+
+.ice {
+    float: left;
+}
